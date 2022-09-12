@@ -43,6 +43,7 @@ GIF created with [ezgif](https://ezgif.com/).
 Describe any challenges encountered while building the app.
 
 -There was a faulty textview, that would not show up
+
 -Having the EditText store the new string
 
 ## License
