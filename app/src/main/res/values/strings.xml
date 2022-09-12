@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wordle</string>
+    <string name="guessbutton">Guess!</string>
+    <string name="guess1">Guess #1</string>
+    <string name="guess2">Guess #2</string>
+    <string name="guess3">Guess #3!</string>
+    <string name="guess1C">Guess #1 Check</string>
+    <string name="guess2C">Guess #2 Check</string>
+    <string name="guess3C">Guess #3 Check</string>
+    <string name="win">Congratulations you guess the correct word!!!!</string>
+
+</resources>
